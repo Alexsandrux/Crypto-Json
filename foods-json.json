@@ -14,11 +14,11 @@
         "urlImage": "https://my-omnifood-project.netlify.app/img/meals/meal-2.jpg"
     },
     {
-        "title": "Japanese Gyozas",
+        "title": "Spaghetti Squash Casserole",
         "type": "meat-based",
-        "description": "descriere Japanese Gyozas",
-        "calories": "650",
-        "urlImage": "https://my-omnifood-project.netlify.app/img/meals/meal-1.jpg"
+        "description": "A sprinkling of nutty fontina cheese melts into a gooey topping",
+        "calories": "150",
+        "urlImage": "https://www.eatingwell.com/thmb/X41BeyhMels3bu9QxOF-KKq1EgM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7493335-39e3ed59bdf345d88c40f3b066cc07ac.jpg"
     },
     {
         "title": "Japanese Gyozas",
@@ -54,5 +54,33 @@
         "description": "Packed with protein",
         "calories": "615",
         "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2019/05/Vegan-Stuffed-Peppers-8-of-11.jpg"
+    },
+    {
+        "title": "Korean Steak, Kimchi & Cauliflower Rice Bowls",
+        "type": "meat-based",
+        "description": "If you've ever wondered how to make those jammy eggs served with ramen, here you go",
+        "calories": "592",
+        "urlImage": "https://www.eatingwell.com/thmb/hcKvyD11RF1_bf94BSsHOdXcSgo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6211977-7e3925ba0c3f4660b408032406618b67.jpg"
+    },
+    {
+        "title": "Grilled Flank Steak & Corn with Green Goddess Butter",
+        "type": "meat-based",
+        "description": "An herbaceous butter turns grilled sweet corn into a rave-worthy accompaniment to simple grilled flank steak",
+        "calories": "912",
+        "urlImage": "https://www.eatingwell.com/thmb/sOh_WAVAeTKMuVyCp-Pq9EuyD8A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8220412-98827790e22b4fd3b517a5555f73f48f.jpg"
+    },
+    {
+        "title": "Grilled Flank Steak & Corn with Green Goddess Butter",
+        "type": "meat-based",
+        "description": "These baked chicken tenders have a deliciously crispy panko bread crumb coating for that extra crunch factor without the guilt of frying",
+        "calories": "172",
+        "urlImage": "https://www.allrecipes.com/thmb/xwBabvTPDd09TOU1H3O1zcNaRCk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/273852-EasyBakedChikenTenders-3X2-0354-1c36a6289fac49ac8dba9c598602116a.jpg"
+    },
+    {
+        "title": "Chicken Souvlaki with Tzatziki Sauce",
+        "type": "meat-based",
+        "description": "Chicken souvlaki skewers are marinated Greek kabobs. Fantastic flavor for chicken. The marinade can also be used for pork.",
+        "calories": "268",
+        "urlImage": "https://www.allrecipes.com/thmb/f4PA0-kaOE82ZiK6XduiBEU8ZyY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2193174-chicken-souvlaki-with-tzatziki-sauce-Snacking-in-the-Kitchen-1x1-1-772ba47886da486cacb5f24dde453c5c.jpg"
     }
 ]
