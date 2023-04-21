@@ -33,5 +33,26 @@
         "description": "Vegan and tasty with 20 proteins",
         "calories": "464",
         "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2022/03/mushroom-curry-title-800x1200.jpg"
+    },
+    {
+        "title": "One Pan Mediterranean Couscous Bowl",
+        "type": "vegan",
+        "description": "The healthy way to reach your daily calorie intake",
+        "calories": "553",
+        "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2022/04/mediterranean-couscous-bowl-recipe-card-image-800x1200.jpg"
+    },
+    {
+        "title": "Lentil Bolognese",
+        "type": "vegan",
+        "description": "Plant-based meals never looked so easy",
+        "calories": "530",
+        "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2021/12/lentil-bolognese-recipe-card-image-800x1200.jpg"
+    },
+    {
+        "title": "Stuffed Peppers",
+        "type": "vegan",
+        "description": "Packed with protein",
+        "calories": "615",
+        "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2019/05/Vegan-Stuffed-Peppers-8-of-11.jpg"
     }
 ]
