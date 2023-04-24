@@ -18,6 +18,13 @@
         "type": "vegan",
         "description": "descriere Avocado Salad",
         "calories": "400",
+        "carbohydrates": "20",
+        "fibers": "5",
+        "sugars": "12",
+        "proteins": "2",
+        "fat": "13",
+        "saturatedFat": "2",
+        "sodium": "75",
         "urlImage": "https://my-omnifood-project.netlify.app/img/meals/meal-2.jpg"
     },
     {
@@ -25,6 +32,13 @@
         "type": "meat-based",
         "description": "A sprinkling of nutty fontina cheese melts into a gooey topping",
         "calories": "150",
+        "carbohydrates": "28",
+        "fibers": "7",
+        "sugars": "13",
+        "proteins": "43",
+        "fat": "20",
+        "saturatedFat": "9",
+        "sodium": "719",
         "urlImage": "https://www.eatingwell.com/thmb/X41BeyhMels3bu9QxOF-KKq1EgM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7493335-39e3ed59bdf345d88c40f3b066cc07ac.jpg"
     },
     {
@@ -32,6 +46,13 @@
         "type": "fish-based",
         "description": "Several varieties of flaky white fish can be used for these tacos, like cod, haddock or mahi mahi.",
         "calories": "296",
+        "carbohydrates": "29",
+        "fibers": "6",
+        "sugars": "3",
+        "proteins": "19",
+        "fat": "19",
+        "saturatedFat": "2",
+        "sodium": "512",
         "urlImage": "https://www.eatingwell.com/thmb/WTWQndNzbFuoAFyhgosogvynSKE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/52676791-46328a59075a4ef8a3dbbdf646f3646e.jpg"
     },
     {
@@ -39,6 +60,13 @@
         "type": "vegan",
         "description": "Vegan and tasty with 20 proteins",
         "calories": "464",
+        "carbohydrates": "68",
+        "fibers": "14",
+        "sugars": "5",
+        "proteins": "20",
+        "fat": "13",
+        "saturatedFat": "8",
+        "sodium": "450",
         "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2022/03/mushroom-curry-title-800x1200.jpg"
     },
     {
@@ -46,6 +74,13 @@
         "type": "vegan",
         "description": "The healthy way to reach your daily calorie intake",
         "calories": "553",
+        "carbohydrates": "94",
+        "fibers": "18",
+        "sugars": "20",
+        "proteins": "20",
+        "fat": "13",
+        "saturatedFat": "2",
+        "sodium": "1729",
         "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2022/04/mediterranean-couscous-bowl-recipe-card-image-800x1200.jpg"
     },
     {
@@ -53,6 +88,13 @@
         "type": "vegan",
         "description": "Plant-based meals never looked so easy",
         "calories": "530",
+        "carbohydrates": "92",
+        "fibers": "13",
+        "sugars": "11",
+        "proteins": "26",
+        "fat": "10",
+        "saturatedFat": "1",
+        "sodium": "871",
         "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2021/12/lentil-bolognese-recipe-card-image-800x1200.jpg"
     },
     {
@@ -60,6 +102,13 @@
         "type": "vegan",
         "description": "Packed with protein",
         "calories": "615",
+        "carbohydrates": "93",
+        "fibers": "19",
+        "sugars": "31",
+        "proteins": "30",
+        "fat": "18",
+        "saturatedFat": "3",
+        "sodium": "1725",
         "urlImage": "https://hurrythefoodup.com/wp-content/uploads/2019/05/Vegan-Stuffed-Peppers-8-of-11.jpg"
     },
     {
@@ -67,6 +116,13 @@
         "type": "meat-based",
         "description": "If you've ever wondered how to make those jammy eggs served with ramen, here you go",
         "calories": "592",
+        "carbohydrates": "20",
+        "fibers": "6",
+        "sugars": "9",
+        "proteins": "30",
+        "fat": "23",
+        "saturatedFat": "5",
+        "sodium": "720",
         "urlImage": "https://www.eatingwell.com/thmb/hcKvyD11RF1_bf94BSsHOdXcSgo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6211977-7e3925ba0c3f4660b408032406618b67.jpg"
     },
     {
@@ -74,13 +130,27 @@
         "type": "meat-based",
         "description": "An herbaceous butter turns grilled sweet corn into a rave-worthy accompaniment to simple grilled flank steak",
         "calories": "912",
+        "carbohydrates": "20",
+        "fibers": "2",
+        "sugars": "7",
+        "proteins": "28",
+        "fat": "26",
+        "saturatedFat": "13",
+        "sodium": "730",
         "urlImage": "https://www.eatingwell.com/thmb/sOh_WAVAeTKMuVyCp-Pq9EuyD8A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8220412-98827790e22b4fd3b517a5555f73f48f.jpg"
     },
     {
-        "title": "Grilled Flank Steak & Corn with Green Goddess Butter",
+        "title": "Easy Baked Chicken Tenders",
         "type": "meat-based",
         "description": "These baked chicken tenders have a deliciously crispy panko bread crumb coating for that extra crunch factor without the guilt of frying",
         "calories": "172",
+        "carbohydrates": "26",
+        "fibers": "1",
+        "sugars": "1",
+        "proteins": "17",
+        "fat": "4",
+        "saturatedFat": "1",
+        "sodium": "689",
         "urlImage": "https://www.allrecipes.com/thmb/xwBabvTPDd09TOU1H3O1zcNaRCk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/273852-EasyBakedChikenTenders-3X2-0354-1c36a6289fac49ac8dba9c598602116a.jpg"
     },
     {
@@ -88,6 +158,13 @@
         "type": "meat-based",
         "description": "Chicken souvlaki skewers are marinated Greek kabobs. Fantastic flavor for chicken. The marinade can also be used for pork.",
         "calories": "268",
+        "carbohydrates": "3",
+        "fibers": "0",
+        "sugars": "1",
+        "proteins": "26",
+        "fat": "17",
+        "saturatedFat": "4",
+        "sodium": "295",
         "urlImage": "https://www.allrecipes.com/thmb/f4PA0-kaOE82ZiK6XduiBEU8ZyY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2193174-chicken-souvlaki-with-tzatziki-sauce-Snacking-in-the-Kitchen-1x1-1-772ba47886da486cacb5f24dde453c5c.jpg"
     },
     {
@@ -95,6 +172,13 @@
         "type": "fish-based",
         "description": "Tilapia fillets are marinated in a tasty ginger-sesame-soy sauce before cooking quickly on the stovetop.",
         "calories": "212",
+        "carbohydrates": "11",
+        "fibers": "3",
+        "sugars": "5",
+        "proteins": "26",
+        "fat": "8",
+        "saturatedFat": "1",
+        "sodium": "618",
         "urlImage": "https://www.eatingwell.com/thmb/z805og5KfyhD6wmmDkwLkQRdPEA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5628534-cac5926e51bc430286b58db2f33c5601.jpg"
     },
     {
@@ -102,6 +186,13 @@
         "type": "fish-based",
         "description": "Make extra to use as a dip for fries or to jazz up tuna salad.",
         "calories": "399",
+        "carbohydrates": "28",
+        "fibers": "3",
+        "sugars": "10",
+        "proteins": "35",
+        "fat": "16",
+        "saturatedFat": "2",
+        "sodium": "537",
         "urlImage": "https://www.eatingwell.com/thmb/WZLzZ2HsfEkr1qmJiKcNc5CnSoM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/63745111-c341a0cd28b34f6b8741bf63ca4cd60a.jpg"
     },
     {
@@ -109,6 +200,13 @@
         "type": "fish-based",
         "description": "Several varieties of flaky white fish can be used for these tacos, like cod, haddock or mahi mahi.",
         "calories": "442",
+        "carbohydrates": "29",
+        "fibers": "6",
+        "sugars": "3",
+        "proteins": "19",
+        "fat": "13",
+        "saturatedFat": "2",
+        "sodium": "521",
         "urlImage": "https://www.eatingwell.com/thmb/DiDW03TpmqnKbqJ40Wz9mzGyiTU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/38794061-6a10a7add606423782980f4def22949d.jpg"
     }
 ]
