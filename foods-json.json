@@ -4,6 +4,13 @@
         "type": "vegan",
         "description": "descriere Japanese Gyozas",
         "calories": "650",
+        "carbohydrates": "24",
+        "fibers": "1",
+        "sugars": "3",
+        "proteins": "14",
+        "fat": "14",
+        "saturatedFat": "4",
+        "sodium": "395",
         "urlImage": "https://my-omnifood-project.netlify.app/img/meals/meal-1.jpg"
     },
     {
