@@ -3,5 +3,15 @@
         "nume": "Cha cha cha",
 		"artist": "Kaarija",
 		"gen": "HIP-HOP"
+    },
+	{
+        "nume": "Thunderstruck",
+		"artist": "AC/DC",
+		"gen": "ROCK"
+    },
+	{
+        "nume": "New Rules",
+		"artist": "Dua Lipa",
+		"gen": "POP"
     }
 ]
